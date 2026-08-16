@@ -6,7 +6,9 @@
     <img alt="Mohamed A. Moghnyy" src="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/main/light.svg" width="100%">
   </picture>
 </div>
+
 <br/>
+
 <!-- Stats Cards -->
 <div align="center">
   <!-- Streak Stats Card -->
@@ -19,7 +21,9 @@
   <!-- NOTE: Replace YOUR-INSTANCE.vercel.app with your own Vercel deployment URL -->
   <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=moghnymohamed60-bot&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+
 <br/>
+
 <!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
@@ -28,7 +32,9 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/output/github-snake.svg" />
   </picture>
 </div>
+
 <br/>
+
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-moghny-596735390/">
@@ -41,19 +47,5 @@
   &nbsp;&nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=opsgenie&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
-  </a>## Hi there 👋
-
-<!--
-**moghnymohamed60-bot/moghnymohamed60-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </a>
+</div>
