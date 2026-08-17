@@ -1,4 +1,4 @@
-<!-- Animated Profile Banner -->
+﻿<!-- Animated Profile Banner -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/main/dark.svg">
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- Tech Stack & Tools -->
-<h3 align="center">??? Tech Stack & Skills</h3>
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
@@ -58,7 +58,7 @@
 <br/>
 
 <!-- Projects Grid Section -->
-<h3>?? PROJECTS.LIST</h3>
+<h3>📂 PROJECTS.LIST</h3>
 <table width="100%">
   <!-- Row 1 -->
   <tr>
