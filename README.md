@@ -9,15 +9,39 @@
 
 <br/>
 
-<!-- Stats Cards -->
+<!-- Stats Cards (Automatically dynamic from GitHub API) -->
 <div align="center">
   <!-- Streak Stats Card -->
   <img width="100%" src="https://streak-stats.demolab.com/?user=moghnymohamed60-bot&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <!-- Github Readme Stats Card (Public Fallback Instance to fix broken image) -->
+  <!-- Github Readme Stats Card (Fetches real-time profile stats) -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=moghnymohamed60-bot&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <!-- Top Languages Card (Public Fallback Instance to fix broken image) -->
+  <!-- Top Languages Card (Fetches real-time language distributions) -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=moghnymohamed60-bot&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
+
+<br/>
+
+<!-- Tech Stack & Tools -->
+<h3 align="center">??? Tech Stack & Skills</h3>
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <br/><br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />&nbsp;
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+  <br/><br/>
+  <!-- Database & SQL -->
+  <img src="https://img.shields.io/badge/mysql-%23005F87.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/sql-%23007acc.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </div>
 
 <br/>
