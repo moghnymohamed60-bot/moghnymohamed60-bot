@@ -16,34 +16,35 @@
   </g>
   
   <!-- Title -->
-  <text x="90" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">Caterista.WP_</text>
+  <text x="90" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">Caterista.WP_</text>
   
   <!-- Tagline / Description -->
-  <text x="90" y="88" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">Egypt's Home Chef Platform. Customized booking system</text>
-  <text x="90" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">for food orders, chef reservation, and catering events.</text>
+  <text x="90" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Egypt's Home Chef Platform.</text>
+  <text x="90" y="96" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Customized booking system for</text>
+  <text x="90" y="110" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">orders, chefs &amp; catering events.</text>
   
   <!-- Tag Pills -->
-  <rect x="90" y="118" width="46" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
-  <text x="113" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">PHP</text>
+  <rect x="90" y="122" width="42" height="18" rx="9" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="111" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#A78BFA" text-anchor="middle">PHP</text>
   
-  <rect x="142" y="118" width="76" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
-  <text x="180" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">WordPress</text>
+  <rect x="138" y="122" width="70" height="18" rx="9" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="173" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#A78BFA" text-anchor="middle">WordPress</text>
   
   <!-- Footer Stars & Date -->
-  <text x="90" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
+  <text x="90" y="158" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
   
   <!-- Divider -->
   <line x1="330" y1="36" x2="330" y2="144" stroke="#1F293D" stroke-width="1.5"/>
   
   <!-- Languages List -->
-  <circle cx="346" cy="62" r="3.5" fill="#777BB4"/>
-  <text x="356" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">PHP 70%</text>
+  <circle cx="348" cy="62" r="3.5" fill="#777BB4"/>
+  <text x="358" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">PHP 70%</text>
   
-  <circle cx="346" cy="80" r="3.5" fill="#E34F26"/>
-  <text x="356" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">HTML 20%</text>
+  <circle cx="348" cy="80" r="3.5" fill="#E34F26"/>
+  <text x="358" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">HTML 20%</text>
   
-  <circle cx="346" cy="98" r="3.5" fill="#563D7C"/>
-  <text x="356" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">CSS 10%</text>
+  <circle cx="348" cy="98" r="3.5" fill="#563D7C"/>
+  <text x="358" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">CSS 10%</text>
   
   <!-- Donut Chart -->
   <circle cx="430" cy="90" r="15.915" stroke="#161B22" stroke-width="3.5" fill="none"/>

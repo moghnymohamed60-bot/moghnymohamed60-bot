@@ -16,34 +16,35 @@
   </g>
   
   <!-- Title -->
-  <text x="90" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">Travel-Reimbursement-System_</text>
+  <text x="90" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">Travel-Reimbursement-System_</text>
   
   <!-- Tagline / Description -->
-  <text x="90" y="88" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">Travel expense logging portal featuring receipt submissions,</text>
-  <text x="90" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">manager approvals, and automated billing workflows.</text>
+  <text x="90" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Travel expense logging portal</text>
+  <text x="90" y="96" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">featuring receipt submissions,</text>
+  <text x="90" y="110" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">manager approvals &amp; workflows.</text>
   
   <!-- Tag Pills -->
-  <rect x="90" y="118" width="82" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
-  <text x="131" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">TypeScript</text>
+  <rect x="90" y="122" width="76" height="18" rx="9" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="128" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#A78BFA" text-anchor="middle">TypeScript</text>
   
-  <rect x="178" y="118" width="62" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
-  <text x="209" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">Node.js</text>
+  <rect x="172" y="122" width="58" height="18" rx="9" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="201" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#A78BFA" text-anchor="middle">Node.js</text>
   
   <!-- Footer Stars & Date -->
-  <text x="90" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
+  <text x="90" y="158" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
   
   <!-- Divider -->
   <line x1="330" y1="36" x2="330" y2="144" stroke="#1F293D" stroke-width="1.5"/>
   
   <!-- Languages List -->
-  <circle cx="346" cy="62" r="3.5" fill="#3178C6"/>
-  <text x="356" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">TS 85%</text>
+  <circle cx="348" cy="62" r="3.5" fill="#3178C6"/>
+  <text x="358" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">TS 85%</text>
   
-  <circle cx="346" cy="80" r="3.5" fill="#F7DF1E"/>
-  <text x="356" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">JS 10%</text>
+  <circle cx="348" cy="80" r="3.5" fill="#F7DF1E"/>
+  <text x="358" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">JS 10%</text>
   
-  <circle cx="346" cy="98" r="3.5" fill="#563D7C"/>
-  <text x="356" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">CSS 5%</text>
+  <circle cx="348" cy="98" r="3.5" fill="#563D7C"/>
+  <text x="358" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">CSS 5%</text>
   
   <!-- Donut Chart -->
   <circle cx="430" cy="90" r="15.915" stroke="#161B22" stroke-width="3.5" fill="none"/>
