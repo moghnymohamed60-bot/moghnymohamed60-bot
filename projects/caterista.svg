@@ -1,0 +1,54 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" fill="none">
+  <!-- Card Background -->
+  <rect width="480" height="180" rx="12" fill="#090E1A" stroke="#1F293D" stroke-width="1.5"/>
+  
+  <!-- Top Header Dot & Path -->
+  <text x="24" y="24" font-family="monospace" font-size="11" fill="#8B949E">• moghnymohamed60-bot/Caterista.WP</text>
+  <circle cx="456" cy="21" r="4" fill="#777BB4"/>
+  
+  <!-- Icon Container -->
+  <rect x="24" y="44" width="52" height="52" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1.5"/>
+  <!-- Chef Hat Icon -->
+  <g transform="translate(38, 58)">
+    <path d="M6 14V6a3 3 0 0 1 6 0v8" stroke="#F0883E" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+    <path d="M14 14V8a3 3 0 0 0-6 0v6" stroke="#F0883E" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+    <path d="M2 14h14a1.5 1.5 0 0 1 1.5 1.5v1.5H.5v-1.5A1.5 1.5 0 0 1 2 14Z" stroke="#F0883E" stroke-width="1.2" fill="none"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="90" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">Caterista.WP_</text>
+  
+  <!-- Tagline / Description -->
+  <text x="90" y="88" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">Egypt's Home Chef Platform. Customized booking system</text>
+  <text x="90" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">for food orders, chef reservation, and catering events.</text>
+  
+  <!-- Tag Pills -->
+  <rect x="90" y="118" width="46" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="113" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">PHP</text>
+  
+  <rect x="142" y="118" width="76" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="180" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">WordPress</text>
+  
+  <!-- Footer Stars & Date -->
+  <text x="90" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
+  
+  <!-- Divider -->
+  <line x1="330" y1="36" x2="330" y2="144" stroke="#1F293D" stroke-width="1.5"/>
+  
+  <!-- Languages List -->
+  <circle cx="346" cy="62" r="3.5" fill="#777BB4"/>
+  <text x="356" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">PHP 70%</text>
+  
+  <circle cx="346" cy="80" r="3.5" fill="#E34F26"/>
+  <text x="356" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">HTML 20%</text>
+  
+  <circle cx="346" cy="98" r="3.5" fill="#563D7C"/>
+  <text x="356" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">CSS 10%</text>
+  
+  <!-- Donut Chart -->
+  <circle cx="430" cy="90" r="15.915" stroke="#161B22" stroke-width="3.5" fill="none"/>
+  <circle cx="430" cy="90" r="15.915" stroke="#777BB4" stroke-width="3.5" stroke-dasharray="70 30" stroke-dashoffset="0" fill="none" transform="rotate(-90 430 90)"/>
+  <circle cx="430" cy="90" r="15.915" stroke="#E34F26" stroke-width="3.5" stroke-dasharray="20 80" stroke-dashoffset="-70" fill="none" transform="rotate(-90 430 90)"/>
+  <circle cx="430" cy="90" r="15.915" stroke="#563D7C" stroke-width="3.5" stroke-dasharray="10 90" stroke-dashoffset="-90" fill="none" transform="rotate(-90 430 90)"/>
+  <text x="430" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">70%</text>
+</svg>

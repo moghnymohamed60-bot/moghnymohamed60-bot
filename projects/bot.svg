@@ -1,0 +1,52 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" fill="none">
+  <!-- Card Background -->
+  <rect width="480" height="180" rx="12" fill="#090E1A" stroke="#1F293D" stroke-width="1.5"/>
+  
+  <!-- Top Header Dot & Path -->
+  <text x="24" y="24" font-family="monospace" font-size="11" fill="#8B949E">• moghnymohamed60-bot/moghnymohamed60-bot</text>
+  <circle cx="456" cy="21" r="4" fill="#3572A5"/>
+  
+  <!-- Icon Container -->
+  <rect x="24" y="44" width="52" height="52" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1.5"/>
+  <!-- Robot Icon -->
+  <g transform="translate(42, 62)">
+    <rect x="2" y="5" width="12" height="7" rx="1.5" stroke="#A78BFA" stroke-width="1.2" fill="none"/>
+    <circle cx="5" cy="8.5" r="0.8" fill="#A78BFA"/>
+    <circle cx="11" cy="8.5" r="0.8" fill="#A78BFA"/>
+    <path d="M8 5V3m0 0a1 1 0 1 1 0-2m0 2a1 1 0 1 0 0-2" stroke="#A78BFA" stroke-width="1.2" fill="none"/>
+    <path d="M4 12v1.5h8V12" stroke="#A78BFA" stroke-width="1.2" fill="none"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="90" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">moghnymohamed60-bot_</text>
+  
+  <!-- Tagline / Description -->
+  <text x="90" y="88" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">Source repository of this active profile and SVG dither</text>
+  <text x="90" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">code processing pipeline.</text>
+  
+  <!-- Tag Pills -->
+  <rect x="90" y="118" width="58" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="119" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">Python</text>
+  
+  <rect x="154" y="118" width="46" height="20" rx="10" fill="#1C1B2D" stroke="#A78BFA" stroke-width="0.5"/>
+  <text x="177" y="132" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#A78BFA" text-anchor="middle">SVG</text>
+  
+  <!-- Footer Stars & Date -->
+  <text x="90" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">★ 0    updated 1d ago</text>
+  
+  <!-- Divider -->
+  <line x1="330" y1="36" x2="330" y2="144" stroke="#1F293D" stroke-width="1.5"/>
+  
+  <!-- Languages List -->
+  <circle cx="346" cy="62" r="3.5" fill="#3572A5"/>
+  <text x="356" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">Python 95%</text>
+  
+  <circle cx="346" cy="80" r="3.5" fill="#FFB13B"/>
+  <text x="356" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">SVG 5%</text>
+  
+  <!-- Donut Chart -->
+  <circle cx="430" cy="90" r="15.915" stroke="#161B22" stroke-width="3.5" fill="none"/>
+  <circle cx="430" cy="90" r="15.915" stroke="#3572A5" stroke-width="3.5" stroke-dasharray="95 5" stroke-dashoffset="0" fill="none" transform="rotate(-90 430 90)"/>
+  <circle cx="430" cy="90" r="15.915" stroke="#FFB13B" stroke-width="3.5" stroke-dasharray="5 95" stroke-dashoffset="-95" fill="none" transform="rotate(-90 430 90)"/>
+  <text x="430" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">95%</text>
+</svg>
