@@ -46,12 +46,12 @@
 
 <br/>
 
-<!-- Contribution Snake Animation -->
+<!-- Real-time GitHub Contribution Grid -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/moghnymohamed60-bot/moghnymohamed60-bot/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://contribution-graph.ren510.dev/graph/moghnymohamed60-bot/calendar.svg?theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://contribution-graph.ren510.dev/graph/moghnymohamed60-bot/calendar.svg?theme=github-light" />
+    <img alt="Mohamed A. Moghnyy's Contribution Calendar" src="https://contribution-graph.ren510.dev/graph/moghnymohamed60-bot/calendar.svg?theme=github-light" width="100%" />
   </picture>
 </div>
 
