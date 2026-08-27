@@ -11,9 +11,6 @@
 
 <!-- Stats Cards (Automatically dynamic from GitHub API) -->
 <div align="center">
-  <!-- Streak Stats Card -->
-  <img width="100%" src="https://streak-stats.demolab.com/?user=moghnymohamed60-bot&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  <br/>
   <!-- Github Readme Stats Card -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=moghnymohamed60-bot&include_forks=true&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <!-- Top Languages Card -->
@@ -58,40 +55,52 @@
 <br/>
 
 <!-- Projects Grid Section -->
-<h3>📂 PROJECTS.LIST</h3>
+<h3><span style="color: #58A6FF; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">PROJECTS.LIST</span> <span style="font-size: 13px; color: #8B949E; font-family: monospace; font-weight: normal; margin-left: 10px;">./projects.sh --all</span></h3>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
   <!-- Row 1 -->
   <tr>
-    <td width="49%" valign="top" style="border: 1px solid #30363D; border-radius: 8px; background-color: #0D1117; padding: 0;">
-      <a href="https://github.com/moghnymohamed60-bot/Travel-Reimbursement-System" style="text-decoration: none; color: inherit; display: block; padding: 16px;">
+    <td width="49%" valign="top" style="border: 1.5px solid #1B2230; border-radius: 12px; background-color: #070B13; padding: 0;">
+      <a href="https://github.com/moghnymohamed60-bot/Travel-Reimbursement-System" style="text-decoration: none; color: inherit; display: block; padding: 20px;">
         <table width="100%" cellpadding="0" cellspacing="0" border="0" style="color: inherit; border-collapse: collapse;">
           <tr>
-            <td width="70%" valign="top" style="padding-right: 10px;">
-              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 4px;">moghnymohamed60-bot / Travel-Reimbursement-System</span>
-              <div style="font-size: 16px; font-weight: bold; color: #58A6FF; margin-bottom: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="#8B949E" style="margin-right: 5px; vertical-align: middle; display: inline-block;">
-                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-                </svg>
-                <span style="vertical-align: middle;">Travel-Reimbursement-System</span>
+            <td width="70%" valign="top" style="padding-right: 12px;">
+              <span style="font-size: 11px; color: #58A6FF; font-family: monospace; display: block; margin-bottom: 8px;">
+                <span style="color: #3178C6; margin-right: 4px;">●</span> moghnymohamed60-bot/Travel-Reimbursement-System
+              </span>
+              <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td valign="top" style="padding-right: 12px;">
+                    <!-- Briefcase Icon -->
+                    <svg width="40" height="40" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect x="1" y="4" width="14" height="10" rx="2" stroke="#58A6FF" stroke-width="1.2"/>
+                      <path d="M5 4V2.5A1.5 1.5 0 0 1 6.5 1h3A1.5 1.5 0 0 1 11 2.5V4" stroke="#58A6FF" stroke-width="1.2"/>
+                      <path d="M1 8h14" stroke="#58A6FF" stroke-width="1.2"/>
+                    </svg>
+                  </td>
+                  <td valign="top">
+                    <div style="font-size: 18px; font-weight: bold; color: #FFFFFF; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 4px;">
+                      Travel-Reimbursement-System_
+                    </div>
+                    <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+                      Travel expense logging portal featuring receipt submissions, manager approvals, and automated billing workflows.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <div style="margin-bottom: 12px; padding-left: 52px;">
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; margin-right: 6px; font-family: monospace;">TypeScript</span>
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; font-family: monospace;">Node.js</span>
               </div>
-              <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; min-height: 36px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                A travel reimbursement expense tracker featuring submission forms, approval workflows, and invoice receipt attachments.
-              </p>
-              <div style="margin-bottom: 10px;">
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">TypeScript</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">Node.js</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; font-family: monospace; display: inline-block;">Express</span>
-              </div>
-              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; padding-left: 52px;">
                 <span style="margin-right: 12px;">★ 0</span>
                 <span>updated 1d ago</span>
               </div>
             </td>
-            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #21262D; padding-left: 10px;">
-              <div align="left" style="font-size: 11px; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 8px;">
-                <div style="margin-bottom: 4px;"><span style="color: #3178C6; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">TypeScript 85%</span></div>
-                <div style="margin-bottom: 4px;"><span style="color: #F7DF1E; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">JavaScript 10%</span></div>
-                <div><span style="color: #563D7C; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">CSS 5%</span></div>
+            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #1F293D; padding-left: 12px;">
+              <div align="left" style="font-size: 11px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 12px;">
+                <div style="margin-bottom: 4px;"><span style="color: #3178C6; font-size: 12px; margin-right: 6px;">●</span>TypeScript 85%</div>
+                <div style="margin-bottom: 4px;"><span style="color: #F7DF1E; font-size: 12px; margin-right: 6px;">●</span>JavaScript 10%</div>
+                <div><span style="color: #563D7C; font-size: 12px; margin-right: 6px;">●</span>CSS 5%</div>
               </div>
               <div style="width: 60px; height: 60px;">
                 <svg width="60" height="60" viewBox="0 0 36 36">
@@ -108,36 +117,47 @@
       </a>
     </td>
     <td width="2%"></td>
-    <td width="49%" valign="top" style="border: 1px solid #30363D; border-radius: 8px; background-color: #0D1117; padding: 0;">
-      <a href="https://github.com/moghnymohamed60-bot/Caterista.WP" style="text-decoration: none; color: inherit; display: block; padding: 16px;">
+    <td width="49%" valign="top" style="border: 1.5px solid #1B2230; border-radius: 12px; background-color: #070B13; padding: 0;">
+      <a href="https://github.com/moghnymohamed60-bot/Caterista.WP" style="text-decoration: none; color: inherit; display: block; padding: 20px;">
         <table width="100%" cellpadding="0" cellspacing="0" border="0" style="color: inherit; border-collapse: collapse;">
           <tr>
-            <td width="70%" valign="top" style="padding-right: 10px;">
-              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 4px;">moghnymohamed60-bot / Caterista.WP</span>
-              <div style="font-size: 16px; font-weight: bold; color: #58A6FF; margin-bottom: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="#8B949E" style="margin-right: 5px; vertical-align: middle; display: inline-block;">
-                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-                </svg>
-                <span style="vertical-align: middle;">Caterista.WP</span>
+            <td width="70%" valign="top" style="padding-right: 12px;">
+              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 8px;">
+                <span style="color: #8B949E; margin-right: 4px;">●</span> moghnymohamed60-bot/Caterista.WP
+              </span>
+              <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td valign="top" style="padding-right: 12px;">
+                    <!-- Chef Hat Icon -->
+                    <svg width="40" height="40" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 11.5c1.5 0 2.5-1 2.5-2.5 0-1-.5-2-1.5-2.5-.5-.2-1-.8-1-1.5 0-1.5-1-2.5-2.5-2.5-.8 0-1.5.3-2 .8-.5-.5-1.2-.8-2-.8C4 2.5 3 3.5 3 5c0 .7-.5 1.3-1 1.5C1 7 0.5 8 0.5 9c0 1.5 1 2.5 2.5 2.5h9Z" stroke="#F0883E" stroke-width="1.2"/>
+                      <path d="M3 11.5v2.5h10v-2.5" stroke="#F0883E" stroke-width="1.2"/>
+                    </svg>
+                  </td>
+                  <td valign="top">
+                    <div style="font-size: 18px; font-weight: bold; color: #FFFFFF; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 4px;">
+                      Caterista.WP_
+                    </div>
+                    <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+                      Egypt's Home Chef Platform. Customized booking system for food orders, chef reservation, and catering events.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <div style="margin-bottom: 12px; padding-left: 52px;">
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; margin-right: 6px; font-family: monospace;">PHP</span>
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; font-family: monospace;">WordPress</span>
               </div>
-              <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; min-height: 36px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                Egypt's Home Chef Platform. A customized booking portal for private chefs, menu selection, and catering services.
-              </p>
-              <div style="margin-bottom: 10px;">
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">PHP</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">WordPress</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; font-family: monospace; display: inline-block;">MySQL</span>
-              </div>
-              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; padding-left: 52px;">
                 <span style="margin-right: 12px;">★ 0</span>
                 <span>updated 1d ago</span>
               </div>
             </td>
-            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #21262D; padding-left: 10px;">
-              <div align="left" style="font-size: 11px; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 8px;">
-                <div style="margin-bottom: 4px;"><span style="color: #777BB4; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">PHP 70%</span></div>
-                <div style="margin-bottom: 4px;"><span style="color: #E34F26; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">HTML 20%</span></div>
-                <div><span style="color: #563D7C; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">CSS 10%</span></div>
+            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #1F293D; padding-left: 12px;">
+              <div align="left" style="font-size: 11px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 12px;">
+                <div style="margin-bottom: 4px;"><span style="color: #777BB4; font-size: 12px; margin-right: 6px;">●</span>PHP 70%</div>
+                <div style="margin-bottom: 4px;"><span style="color: #E34F26; font-size: 12px; margin-right: 6px;">●</span>HTML 20%</div>
+                <div><span style="color: #563D7C; font-size: 12px; margin-right: 6px;">●</span>CSS 10%</div>
               </div>
               <div style="width: 60px; height: 60px;">
                 <svg width="60" height="60" viewBox="0 0 36 36">
@@ -157,35 +177,47 @@
   <tr height="16"><td></td></tr>
   <!-- Row 2 -->
   <tr>
-    <td width="49%" valign="top" style="border: 1px solid #30363D; border-radius: 8px; background-color: #0D1117; padding: 0;">
-      <a href="https://github.com/moghnymohamed60-bot/Restaurant-Reservation-System" style="text-decoration: none; color: inherit; display: block; padding: 16px;">
+    <td width="49%" valign="top" style="border: 1.5px solid #1B2230; border-radius: 12px; background-color: #070B13; padding: 0;">
+      <a href="https://github.com/moghnymohamed60-bot/Restaurant-Reservation-System" style="text-decoration: none; color: inherit; display: block; padding: 20px;">
         <table width="100%" cellpadding="0" cellspacing="0" border="0" style="color: inherit; border-collapse: collapse;">
           <tr>
-            <td width="70%" valign="top" style="padding-right: 10px;">
-              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 4px;">moghnymohamed60-bot / Restaurant-Reservation-System</span>
-              <div style="font-size: 16px; font-weight: bold; color: #58A6FF; margin-bottom: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="#8B949E" style="margin-right: 5px; vertical-align: middle; display: inline-block;">
-                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-                </svg>
-                <span style="vertical-align: middle;">Restaurant-Reservation-System</span>
+            <td width="70%" valign="top" style="padding-right: 12px;">
+              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 8px;">
+                <span style="color: #8B949E; margin-right: 4px;">●</span> moghnymohamed60-bot/Restaurant-Reservation-System
+              </span>
+              <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td valign="top" style="padding-right: 12px;">
+                    <!-- Restaurant Table/Bell Icon -->
+                    <svg width="40" height="40" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="8" cy="10" r="5" stroke="#10B981" stroke-width="1.2"/>
+                      <path d="M4 14h8" stroke="#10B981" stroke-width="1.2"/>
+                      <path d="M8 2a3 3 0 0 0-3 3h6a3 3 0 0 0-3-3Z" fill="#10B981"/>
+                    </svg>
+                  </td>
+                  <td valign="top">
+                    <div style="font-size: 18px; font-weight: bold; color: #FFFFFF; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 4px;">
+                      Restaurant-Reservation-System_
+                    </div>
+                    <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+                      Interactive seating and reservation app featuring table bookings, real-time allocations, and staff schedules.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <div style="margin-bottom: 12px; padding-left: 52px;">
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; margin-right: 6px; font-family: monospace;">Java</span>
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; font-family: monospace;">Spring Boot</span>
               </div>
-              <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; min-height: 36px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                A seating reservation app featuring table bookings, interactive restaurant layouts, and dining schedules.
-              </p>
-              <div style="margin-bottom: 10px;">
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">Java</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">Spring Boot</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; font-family: monospace; display: inline-block;">MySQL</span>
-              </div>
-              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; padding-left: 52px;">
                 <span style="margin-right: 12px;">★ 0</span>
                 <span>updated 1d ago</span>
               </div>
             </td>
-            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #21262D; padding-left: 10px;">
-              <div align="left" style="font-size: 11px; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 8px;">
-                <div style="margin-bottom: 4px;"><span style="color: #B07219; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">Java 90%</span></div>
-                <div><span style="color: #E38C00; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">SQL 10%</span></div>
+            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #1F293D; padding-left: 12px;">
+              <div align="left" style="font-size: 11px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 12px;">
+                <div style="margin-bottom: 4px;"><span style="color: #B07219; font-size: 12px; margin-right: 6px;">●</span>Java 90%</div>
+                <div><span style="color: #E38C00; font-size: 12px; margin-right: 6px;">●</span>SQL 10%</div>
               </div>
               <div style="width: 60px; height: 60px;">
                 <svg width="60" height="60" viewBox="0 0 36 36">
@@ -201,34 +233,49 @@
       </a>
     </td>
     <td width="2%"></td>
-    <td width="49%" valign="top" style="border: 1px solid #30363D; border-radius: 8px; background-color: #0D1117; padding: 0;">
-      <a href="https://github.com/moghnymohamed60-bot/moghnymohamed60-bot" style="text-decoration: none; color: inherit; display: block; padding: 16px;">
+    <td width="49%" valign="top" style="border: 1.5px solid #1B2230; border-radius: 12px; background-color: #070B13; padding: 0;">
+      <a href="https://github.com/moghnymohamed60-bot/moghnymohamed60-bot" style="text-decoration: none; color: inherit; display: block; padding: 20px;">
         <table width="100%" cellpadding="0" cellspacing="0" border="0" style="color: inherit; border-collapse: collapse;">
           <tr>
-            <td width="70%" valign="top" style="padding-right: 10px;">
-              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 4px;">moghnymohamed60-bot / moghnymohamed60-bot</span>
-              <div style="font-size: 16px; font-weight: bold; color: #58A6FF; margin-bottom: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="#8B949E" style="margin-right: 5px; vertical-align: middle; display: inline-block;">
-                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-                </svg>
-                <span style="vertical-align: middle;">moghnymohamed60-bot</span>
+            <td width="70%" valign="top" style="padding-right: 12px;">
+              <span style="font-size: 11px; color: #8B949E; font-family: monospace; display: block; margin-bottom: 8px;">
+                <span style="color: #8B949E; margin-right: 4px;">●</span> moghnymohamed60-bot/moghnymohamed60-bot
+              </span>
+              <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td valign="top" style="padding-right: 12px;">
+                    <!-- Bot/Robot Icon -->
+                    <svg width="40" height="40" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect x="2" y="5" width="12" height="8" rx="1.5" stroke="#A78BFA" stroke-width="1.2"/>
+                      <circle cx="5" cy="9" r="0.8" fill="#A78BFA"/>
+                      <circle cx="11" cy="9" r="0.8" fill="#A78BFA"/>
+                      <path d="M8 5V3m0 0a1 1 0 1 1 0-2m0 2a1 1 0 1 0 0-2" stroke="#A78BFA" stroke-width="1.2"/>
+                      <path d="M4 13v1.5h8V13" stroke="#A78BFA" stroke-width="1.2"/>
+                    </svg>
+                  </td>
+                  <td valign="top">
+                    <div style="font-size: 18px; font-weight: bold; color: #FFFFFF; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 4px;">
+                      moghnymohamed60-bot_
+                    </div>
+                    <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+                      Source repository of this active profile and SVG dithering code processing pipeline.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <div style="margin-bottom: 12px; padding-left: 52px;">
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; margin-right: 6px; font-family: monospace;">Python</span>
+                <span style="font-size: 11px; color: #8F9DFF; background-color: rgba(143, 157, 255, 0.12); border: 1px solid rgba(143, 157, 255, 0.2); border-radius: 12px; padding: 2px 10px; font-family: monospace;">SVG</span>
               </div>
-              <p style="font-size: 13px; color: #8B949E; margin: 0 0 12px 0; line-height: 1.4; min-height: 36px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                Source repository of this active profile and SVG dithering code processing pipeline.
-              </p>
-              <div style="margin-bottom: 10px;">
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; margin-right: 6px; font-family: monospace; display: inline-block;">Python</span>
-                <span style="font-size: 11px; color: #A78BFA; background-color: rgba(167, 139, 250, 0.15); border: 1px solid rgba(167, 139, 250, 0.2); border-radius: 12px; padding: 3px 10px; font-family: monospace; display: inline-block;">SVG</span>
-              </div>
-              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="font-size: 12px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; padding-left: 52px;">
                 <span style="margin-right: 12px;">★ 0</span>
                 <span>updated 1d ago</span>
               </div>
             </td>
-            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #21262D; padding-left: 10px;">
-              <div align="left" style="font-size: 11px; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 8px;">
-                <div style="margin-bottom: 4px;"><span style="color: #3572A5; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">Python 95%</span></div>
-                <div><span style="color: #FFB13B; font-size: 14px; line-height: 1; vertical-align: middle; margin-right: 4px;">●</span><span style="vertical-align: middle;">SVG 5%</span></div>
+            <td width="30%" align="center" valign="middle" style="border-left: 1px solid #1F293D; padding-left: 12px;">
+              <div align="left" style="font-size: 11px; color: #8B949E; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; margin-bottom: 12px;">
+                <div style="margin-bottom: 4px;"><span style="color: #3572A5; font-size: 12px; margin-right: 6px;">●</span>Python 95%</div>
+                <div><span style="color: #FFB13B; font-size: 12px; margin-right: 6px;">●</span>SVG 5%</div>
               </div>
               <div style="width: 60px; height: 60px;">
                 <svg width="60" height="60" viewBox="0 0 36 36">
